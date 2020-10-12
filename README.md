@@ -1,6 +1,67 @@
-# console.log("Hola Mundo 👋");
+# () => console.log("Hello World 👋");
 
-* Aquí podrás encontrar mis proyectos personales :smiley:
-* Si quieres ver más puedes ir a mi GitLab :flushed: https://gitlab.com/CrissSM
-
-<img src="https://github.com/CrissSM/CrissSM/blob/master/punch.gif?raw=true" width="250" height="250"/>
+```yaml
+"me": {
+  "personal": {
+    "name": "Criss SM",
+    "age": 18,
+    "nickname": "Flatt37",
+    "education": [
+      {
+        "career": "Informatics Engineering",
+        "school": "Universidad de Guadalajara",
+        "status": "student",
+        "info": {
+          "start": 2019,
+          "graduation": null
+        }
+      },
+      {
+        "career": "Programming",
+        "school": "CBTIS 49",
+        "status": "graduated",
+        "info": {
+          "start": 2016,
+          "graduation": 2019
+        }
+      }
+    ],
+    "languages": {
+      "spanish": "native",
+      "english": [ "read", "written", "technical" ]
+    },
+    "socialMedia": {
+      "gitlab": "https://gitlab.com/CrissSM",
+      "twitter": "https://twitter.com/Flatt37_"
+    }
+   },
+  "professional": {
+    "position": "Full Stack Developer",
+    "workExperience": null,
+    "programmingLanguages": {
+      "intermediate": [
+        "javascript",
+        "python",
+        "java"
+      ],
+      "basic": [
+        "c",
+        "c++",
+        "php",
+        "go",
+        "rust"
+      ]
+    },
+    "technologies": {
+      "html",
+      "css",
+      "react",
+      "angular",
+      "ionic",
+      "firebase",
+      "nodejs",
+      "flask"
+    }
+  }
+}
+```
