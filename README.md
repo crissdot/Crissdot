@@ -1,4 +1,4 @@
-# () => console.log("Hello World 👋");
+# let sayHi = () => console.log("Hello World 👋");
 
 ```yaml
 "me": {
@@ -26,21 +26,21 @@
         }
       }
     ],
-    "languages": {
-      "spanish": "native",
-      "english": [ "read", "written", "technical" ]
-    },
     "socialMedia": {
-      "gitlab": "https://gitlab.com/CrissSM",
-      "twitter": "https://twitter.com/Flatt37_"
+      "gitlab": "https://gitlab.com/Crissdot"
     }
    },
   "professional": {
     "position": "Full Stack Developer",
     "workExperience": null,
+    "languages": {
+      "spanish": "native",
+      "english": [ "read", "written", "technical" ]
+    },
     "programmingLanguages": {
       "intermediate": [
         "javascript",
+        "typescript",
         "python",
         "java"
       ],
