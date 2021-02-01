@@ -31,7 +31,7 @@
     }
    },
   "professional": {
-    "position": "Full Stack Developer",
+    "position": "Frontend Developer",
     "workExperience": null,
     "languages": {
       "spanish": "native",
