@@ -1,7 +1,7 @@
 # let sayHi = () => console.log("Hello World 👋");
 
 ```yaml
-"me": {
+{
   "personal": {
     "name": "Criss SM",
     "age": 19,
