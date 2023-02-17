@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Criss Sahagun</h1>
-<p align="center">Software Engineer with 7 months of professional experience in software development and engineering. Proven track record of successful projects implementing technical solutions and working in agile development teams. Experienced in coding, debugging, and troubleshooting software applications.</p>
+<p align="center">Software Engineer with professional experience in software development and engineering. Proven track record of successful projects implementing technical solutions and working in agile development teams. Experienced in coding, debugging, and troubleshooting software applications.</p>
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="coding gif" height="250" />
 
 - 🔭 I’m currently working on **awesome projects**
