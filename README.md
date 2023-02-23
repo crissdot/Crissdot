@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **awesome projects**
 
-- 🌱 I’m currently learning **kafka**
+- 🌱 I’m currently learning **kafka, nextjs**
 
 - 💬 Ask me about **spring, nodejs, react**
 
@@ -12,9 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/crissdot_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crissdot_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//in/cristopher-sahagun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/cristopher-sahagun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/crissdot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crissdot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
